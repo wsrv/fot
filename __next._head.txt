@@ -3,6 +3,6 @@
 4:I[97367,["/fot/_next/static/chunks/ff1a16fafef87110.js","/fot/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
 7:I[27201,["/fot/_next/static/chunks/ff1a16fafef87110.js","/fot/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
-0:{"buildId":"gxJsUz6CRMpe2qlYa2sVX","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"WlylWvrJmjxulWquLMRcN","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"F1 Abu Dhabi GP Tickets"}],["$","meta","1",{"name":"description","content":"абоба"}],["$","link","2",{"rel":"icon","href":"/images/free-icon-circle-594739.png","type":"image/png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/images/free-icon-circle-594739.png","type":"image/png"}],["$","$L7","4",{}]]
